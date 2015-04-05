@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP Name="TheShop" Address="WhatEver">
+	<SOLD Year="2015">
+		<CATALOG>
+			<CDLIST>
+				<CD>
+					<TITLE>Empire Burlesque</TITLE>
+					<Artist Format="Text"><![CDATA[<ArtistRecord>
+					<Name Text="Bob"></Name>
+					<Surname Text="Dylan"></Surname>
+					<Birthday Text="1941"></Birthday>
+					<Origin Text="USA"></Origin>
+				</ArtistRecord>
+				]]></Artist>
+					<COUNTRY>USA</COUNTRY>
+					<COMPANY>Columbia</COMPANY>
+					<PRICE>10.90</PRICE>
+					<YEAR>1985</YEAR>
+				</CD>
+				<CD>
+					<TITLE>Hide your heart</TITLE>
+					<Artist Format="Text"><![CDATA[<ArtistRecord>
+					<Name Text="Bonnie"></Name>
+					<Surname Text="Tyler"></Surname>
+					<Birthday Text="1951"></Birthday>
+					<Origin Text="Wales"></Origin>
+				</ArtistRecord>
+				]]></Artist>
+					<COUNTRY>UK</COUNTRY>
+					<COMPANY>CBS Records</COMPANY>
+					<PRICE>9.90</PRICE>
+					<YEAR>1988</YEAR>
+				</CD>
+				<CD>
+					<TITLE>Greatest Hits</TITLE>
+					<Artist Format="Text"><![CDATA[<ArtistRecord>
+					<Name Text="Dolly"></Name>
+					<Surname Text="Parton"></Surname>
+					<Birthday Text="1946"></Birthday>
+					<Origin Text="USA"></Origin>
+				</ArtistRecord>
+				]]></Artist>
+					<COUNTRY>USA</COUNTRY>
+					<COMPANY>RCA</COMPANY>
+					<PRICE>9.90</PRICE>
+					<YEAR>1982</YEAR>
+				</CD>
+				<CD>
+					<TITLE>Still got the blues</TITLE>
+					<Artist Format="Text"><![CDATA[<ArtistRecord>
+					<Name Text="Gary"></Name>
+					<Surname Text="Moore"></Surname>
+					<Birthday Text="1952"></Birthday>
+					<Origin Text="Irland"></Origin>
+				</ArtistRecord>
+				]]></Artist>
+					<COUNTRY>UK</COUNTRY>
+					<COMPANY>Virgin records</COMPANY>
+					<PRICE>10.20</PRICE>
+					<YEAR>1990</YEAR>
+				</CD>
+				<CD>
+					<TITLE>Eros</TITLE>
+					<Artist Format="Text"><![CDATA[<ArtistRecord>
+					<Name Text="Eros"></Name>
+					<Surname Text="Ramazzotti"></Surname>
+					<Birthday Text="1963"></Birthday>
+					<Origin Text="Italy"></Origin>
+				</ArtistRecord>
+				]]></Artist>
+					<COUNTRY>EU</COUNTRY>
+					<COMPANY>BMG</COMPANY>
+					<PRICE>9.90</PRICE>
+					<YEAR>1997</YEAR>
+				</CD>
+			</CDLIST>
+		</CATALOG>
+	</SOLD>
+</SHOP>
